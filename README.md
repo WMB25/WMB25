@@ -14,14 +14,13 @@
 
 ###
 
+aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, SQL, Git",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench"<br>}
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WMB25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=WMB25&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WMB25&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, SQL, Git",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench"<br>}
 
 ###
