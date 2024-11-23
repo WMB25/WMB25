@@ -14,7 +14,7 @@
 
 ###
 
-aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, SQL, Git",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench"<br>}
+<div align="center">aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, SQL, Git",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench"<br>}</div>
 
 ###
 <div align="center">
