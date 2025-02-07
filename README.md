@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, SQL, Java, JavaScript",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench, Eclipse, Git, .NET"<br>}</div>
+<div align="center">aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Trabalhar como Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, C#, SQL, Java, JavaScript",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench, Eclipse, Git, .NET, Spring"<br>}</div>
 
 ###
 <div align="center">
