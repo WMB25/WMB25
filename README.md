@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, C#, SQL, Java, JavaScript",<br>  "ferramentas": "Exel, VsCode, Visual Studio, MySQL Workbench, Eclipse, Git, .NET, Spring, pipelines"<br>}</div>
+<div align="center">aboutMe = {<br>  "nome":"Walison",<br>  "local":"São Paulo - SP",<br>  "curso": "Ciência da Computação - SENAC",<br>  "hobbies":"Escutar música, Dirigir, cozinhar e esportes"<br>  "objetivo":"Backend"<br>}<br>skilss = {<br>  "linguagens" : "C, C#, SQL, Java, JavaScript",<br>  "ferramentas": "Excel, VsCode, Visual Studio, MySQL Workbench, Eclipse, Git, .NET, Spring, Pipelines"<br>}</div>
 
 ###
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WMB25&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
